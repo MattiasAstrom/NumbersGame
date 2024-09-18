@@ -1,4 +1,6 @@
-﻿namespace NumbersGame
+﻿//Author: Mattias Åström NET24
+
+namespace NumbersGame
 {
     internal class Program
     {
